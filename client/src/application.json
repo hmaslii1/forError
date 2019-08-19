@@ -1,0 +1,13 @@
+{
+  "name": "forErrortest",
+  "defaultLayout": "PhonePortrait",
+  "previewToken": "c5841f1e",
+  "theme": "Anchor",
+  "clientVersion": "6.1.0-dev",
+  "hidden": false,
+  "isBuiltInTemplate": false,
+  "disableSideMenu": false,
+  "offlineSupport": false,
+  "description": "",
+  "creatorId": "admin"
+}
