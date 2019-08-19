@@ -7,7 +7,14 @@
   "blank": {
     "type": "object",
     "comment": "Blank",
-    "properties": {},
+    "properties": {
+      "Username": {
+        "type": "string"
+      },
+      "Password": {
+        "type": "string"
+      }
+    },
     "id": "blank"
   }
 }
